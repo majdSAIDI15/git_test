@@ -1,3 +1,3 @@
 <?php
-    echo "yolo"
+    echo "yolo2"
 ?>
